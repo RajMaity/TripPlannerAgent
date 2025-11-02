@@ -1,0 +1,5 @@
+# Virtual environment directory
+.venv/
+
+# Secret keys file
+.env
